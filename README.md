@@ -1,7 +1,13 @@
 # Investment_Analysis
 Analyzed and recommended investment decisions on TGT
 
-Analyzed Target Corp's (TGT) stock using economy, industry and company framework and multiple discounted cash flow (DCF) and multiple comparable analysis (Comps). And made investment recommendations based on analysis results.
+• Created a SWOT analysis for Target Corp's business using industry and company framework.
+• Analyzed Target's financial statements and key financial performance metrics to identify trends and key business drivers.
+• Built comprehensive financial models to forecast revenue and cash flow.
+• Evaluated Target Corp’s financial health and analyzed its equity value using both DCF (discounted cash flow) and COMPS (multiple comparable analysis) methods.
+• Applied both scenario analysis and sensitivity analysis to the valuation process.
+• Made investment recommendations based on analysis results in a presentation.
+ and multiple discounted cash flow (DCF) and multiple comparable analysis (Comps). And made investment recommendations based on analysis results.
 
 1 pdf file and 1 ppt file included.
 
